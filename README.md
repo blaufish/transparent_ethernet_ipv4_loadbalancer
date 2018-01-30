@@ -33,7 +33,7 @@ Jens Eliasson
 Erik Holmgren
 Tim Johansson
 Peter Magnusson
-Chirstian Nilsson
+Christian Nilsson
 
 # Date of Publication 
 4th June 2001
