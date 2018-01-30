@@ -1,7 +1,7 @@
 # Transparent Ethernet/IPv4 Loadbalancer
 Old student project from Lulea University of Technology.
-[report-lb.pdf](report-lb.pdf) describes an FPGA based Ethernet/IPv4 capable
-FPGA design written in VHDL that processed:
+Report [rapport-lb.pdf](rapport-lb.pdf) describes an FPGA based Ethernet/IPv4
+capable FPGA design written in VHDL that processed:
  - Ethernet
  - Address Resolution Protocol (ARP)
  - Internet Protocol (IPv4)
